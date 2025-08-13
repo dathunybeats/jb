@@ -1,73 +1,148 @@
-# Welcome to your Lovable project
+# JB's Mobile Detailing Website
 
-## Project info
+A modern, responsive website for JB's Mobile Detailing - a premier mobile detailing service in Tuscaloosa, Alabama.
 
-**URL**: https://lovable.dev/projects/4d238b04-16f7-43a2-86e8-3264c61b27e0
+## 🚗 About
 
-## How can I edit this code?
+**JB's Mobile Detailing** is owned by Jacob Tyler Birmingham and specializes in professional mobile detailing services. Our tagline "ELEVATE YOUR RIDE" reflects our commitment to providing top-quality vehicle care.
 
-There are several ways of editing your application.
+### Services Offered
+- **Mobile Detailing** - We come to you!
+- **Interior & Exterior Detailing**
+- **Paint Correction**
+- **Paint Touch-up**
+- **Professional Grade Ceramic Coatings**
+- **Ceramic Coating Specialist Services**
 
-**Use Lovable**
+## 📍 Location & Contact
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4d238b04-16f7-43a2-86e8-3264c61b27e0) and start prompting.
+- **Location**: Tuscaloosa, AL, United States
+- **Phone**: +1 205-872-5994
+- **Email**: Jbsmobiledetail@gmail.com
+- **Business Hours**: Always Open (Appointments Only)
+- **Online Booking**: Available
 
-Changes made via Lovable will be committed automatically to this repo.
+### Social Media
+- **Instagram**: @jbsdetailingandceramics
+- **Facebook**: JB's Mobile Detailing
+- **YouTube**: jbdetails205
+- **TikTok**: @jbsmobiledetailing
 
-**Use your preferred IDE**
+## ⭐ Reviews & Reputation
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **100% Recommendation Rate**
+- **16 Reviews** from satisfied customers
+- Professional service with attention to detail
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Technology Stack
 
-Follow these steps:
+This website is built with modern web technologies:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **React 18** with TypeScript
+- **Vite** for fast development and building
+- **Tailwind CSS** for styling
+- **Shadcn/ui** components
+- **Lucide React** for icons
+- **React Router** for navigation
+- **React Query** for data fetching
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Prerequisites
+- Node.js (version 16 or higher)
+- npm or yarn
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/jbs-mobile-detailing.git
+cd jbs-mobile-detailing
 ```
 
-**Edit a file directly in GitHub**
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+3. Start the development server:
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-**Use GitHub Codespaces**
+4. Open your browser and navigate to `http://localhost:5173`
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Building for Production
 
-## What technologies are used for this project?
+```bash
+npm run build
+# or
+yarn build
+```
 
-This project is built with:
+## 📁 Project Structure
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```
+src/
+├── components/          # React components
+│   ├── ui/             # Shadcn/ui components
+│   ├── Header.tsx      # Navigation header
+│   ├── Hero.tsx        # Hero section
+│   ├── Services.tsx    # Services showcase
+│   ├── About.tsx       # About section
+│   ├── Reviews.tsx     # Customer reviews
+│   ├── Portfolio.tsx   # Work portfolio
+│   ├── Appointment.tsx # Booking form
+│   ├── FAQ.tsx         # Frequently asked questions
+│   ├── Contact.tsx     # Contact information
+│   ├── Footer.tsx      # Site footer
+│   └── ChatWidget.tsx  # Live chat widget
+├── assets/             # Images and static files
+├── hooks/              # Custom React hooks
+├── lib/                # Utility functions
+└── pages/              # Page components
+```
 
-## How can I deploy this project?
+## 🎨 Features
 
-Simply open [Lovable](https://lovable.dev/projects/4d238b04-16f7-43a2-86e8-3264c61b27e0) and click on Share -> Publish.
+- **Responsive Design** - Works perfectly on all devices
+- **Modern UI/UX** - Clean, professional design
+- **Fast Performance** - Optimized for speed
+- **SEO Optimized** - Proper meta tags and structure
+- **Contact Forms** - Easy appointment booking
+- **Social Media Integration** - Links to all platforms
+- **Mobile-First** - Designed for mobile users
 
-## Can I connect a custom domain to my Lovable project?
+## 📱 Mobile-First Design
 
-Yes, you can!
+The website is designed with mobile users in mind, featuring:
+- Touch-friendly navigation
+- Optimized images and content
+- Fast loading times
+- Easy contact and booking
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 🔧 Customization
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+The website is easily customizable:
+- Update business information in component files
+- Modify colors and styling in Tailwind config
+- Add new services or sections as needed
+- Update images in the assets folder
+
+## 📄 License
+
+This project is private and proprietary to JB's Mobile Detailing.
+
+## 🤝 Support
+
+For support or questions about the website, contact:
+- **Email**: Jbsmobiledetail@gmail.com
+- **Phone**: +1 205-872-5994
+
+---
+
+**JB's Mobile Detailing** - Elevate Your Ride! 🚗✨
