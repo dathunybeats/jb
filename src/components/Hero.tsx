@@ -16,7 +16,7 @@ const Hero = () => {
       backgroundImage: heroImage,
       subtitle: "MOBILE DETAILING",
       title: "ELEVATE YOUR RIDE",
-      titleHighlight: "WITH JB'S DETAILING",
+      titleHighlight: "WITH DIAMOND EDGE",
       buttonText: "BOOK NOW",
       headingClass: "text-3xl sm:text-5xl md:text-6xl lg:text-6xl"
     },
@@ -41,9 +41,9 @@ const Hero = () => {
     {
       id: 4,
       backgroundImage: heroImage4,
-      subtitle: "JB'S MOBILE DETAILING",
-      title: "100% RECOMMEND",
-      titleHighlight: "16 REVIEWS",
+      subtitle: "DIAMOND EDGE DETAILING",
+      title: "PROFESSIONAL MOBILE",
+      titleHighlight: "DETAILING SERVICE",
       buttonText: "BOOK NOW",
       headingClass: "text-4xl md:text-6xl lg:text-7xl"
     }

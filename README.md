@@ -1,38 +1,29 @@
-# JB's Mobile Detailing Website
+# Diamond Edge Detailing Website
 
-A modern, responsive website for JB's Mobile Detailing - a premier mobile detailing service in Tuscaloosa, Alabama.
+A modern, responsive website for Diamond Edge Detailing - a premier mobile detailing service in Grand Forks, North Dakota.
 
 ## 🚗 About
 
-**JB's Mobile Detailing** is owned by Jacob Tyler Birmingham and specializes in professional mobile detailing services. Our tagline "ELEVATE YOUR RIDE" reflects our commitment to providing top-quality vehicle care.
+**Diamond Edge Detailing** specializes in professional mobile detailing services throughout Grand Forks, ND. We bring our expertise directly to you, providing convenient and professional vehicle care.
 
 ### Services Offered
-- **Mobile Detailing** - We come to you!
-- **Interior & Exterior Detailing**
-- **Paint Correction**
-- **Paint Touch-up**
-- **Professional Grade Ceramic Coatings**
-- **Ceramic Coating Specialist Services**
+- **Interior Detail** ($150-$250) - Seats deep cleaned, floors vacuumed, dashboard and console deep cleaned and dressed, doors cleaned and dressed, windows cleaned, trunk vacuumed, air vents and cup holders brushed and cleaned like new!
+- **Exterior Detail** ($75-$100) - We perform a rinse, prewash, followed by another rinse, then a shampoo and hand wash. This is then finished by drying the vehicle and applying ceramic spray.
+- **Full Detail** ($200-$300) - Complete interior and exterior detailing package for the ultimate vehicle transformation.
+- **Ceramic Coating Application**
+- **Paint Correction Services**
 
 ## 📍 Location & Contact
 
-- **Location**: Tuscaloosa, AL, United States
-- **Phone**: +1 205-872-5994
-- **Email**: Jbsmobiledetail@gmail.com
+- **Location**: Grand Forks, ND, United States
+- **Phone**: 218-686-6992
+- **Email**: contact@diamondedgedetailing.com
 - **Business Hours**: Always Open (Appointments Only)
 - **Online Booking**: Available
 
 ### Social Media
-- **Instagram**: @jbsdetailingandceramics
-- **Facebook**: JB's Mobile Detailing
-- **YouTube**: jbdetails205
-- **TikTok**: @jbsmobiledetailing
-
-## ⭐ Reviews & Reputation
-
-- **100% Recommendation Rate**
-- **16 Reviews** from satisfied customers
-- Professional service with attention to detail
+- **Instagram**: @diamondedgeautodetailing
+- **Facebook**: Diamond Edge Detailing
 
 ## 🛠️ Technology Stack
 
@@ -56,8 +47,8 @@ This website is built with modern web technologies:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/jbs-mobile-detailing.git
-cd jbs-mobile-detailing
+git clone https://github.com/yourusername/diamond-edge-detailing.git
+cd diamond-edge-detailing
 ```
 
 2. Install dependencies:
@@ -135,14 +126,14 @@ The website is easily customizable:
 
 ## 📄 License
 
-This project is private and proprietary to JB's Mobile Detailing.
+This project is private and proprietary to Diamond Edge Detailing.
 
 ## 🤝 Support
 
 For support or questions about the website, contact:
-- **Email**: Jbsmobiledetail@gmail.com
-- **Phone**: +1 205-872-5994
+- **Email**: contact@diamondedgedetailing.com
+- **Phone**: 218-686-6992
 
 ---
 
-**JB's Mobile Detailing** - Elevate Your Ride! 🚗✨
+**Diamond Edge Detailing** - Professional Mobile Detailing Service! 🚗✨

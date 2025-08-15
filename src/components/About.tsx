@@ -17,11 +17,11 @@ const About = () => {
                 ABOUT US
               </p>
               <h2 className="text-4xl md:text-5xl font-extrabold mb-6 text-white leading-tight tracking-tight">
-                JB'S MOBILE DETAILING<br />
+                DIAMOND EDGE DETAILING<br />
                 ELEVATE YOUR RIDE
               </h2>
               <p className="text-gray-400 text-lg leading-relaxed mb-8">
-                Professional mobile detailing service in Tuscaloosa, AL. Specializing in interior & exterior detailing, paint correction, paint touch-up, and professional grade ceramic coatings. 100% recommend rating from 16 reviews. We come to you!
+                Professional mobile detailing service in Grand Forks, ND. Specializing in interior & exterior detailing, paint correction, and professional grade ceramic coatings. We come to you wherever you are!
               </p>
               <Button className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-black font-semibold px-6 h-11 rounded-md text-sm transition-all duration-300">
                 LEARN MORE
@@ -50,11 +50,11 @@ const About = () => {
               ABOUT US
             </p>
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white leading-tight">
-              JB'S MOBILE DETAILING<br />
-              CERAMIC COATING SPECIALIST
+              DIAMOND EDGE DETAILING<br />
+              MOBILE DETAILING SPECIALISTS
             </h2>
             <p className="text-gray-400 text-lg leading-relaxed mb-8">
-              Owned by Jacob Tyler Birmingham, we're Tuscaloosa's premier mobile detailing service. From our skilled and certified technicians to friendly service, we specialize in professional grade ceramic coatings and comprehensive vehicle care. Always open with online booking available!
+              We're Grand Forks' premier mobile detailing service. From our skilled and certified technicians to friendly service, we specialize in professional grade ceramic coatings and comprehensive vehicle care. Always open with online booking available!
             </p>
             <Button className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-black font-semibold px-6 h-11 rounded-md text-sm transition-all duration-300 w-fit">
               LEARN MORE

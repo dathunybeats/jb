@@ -20,11 +20,11 @@ const ServicePackages = () => {
             <div className="space-y-4 mb-8">
               <div className="flex items-center bg-card/50 p-4 rounded-lg border border-border">
                 <Phone className="w-6 h-6 text-primary mr-4" />
-                <span className="text-foreground font-medium">+1 205-872-5994</span>
+                <span className="text-foreground font-medium">218-686-6992</span>
               </div>
               <div className="flex items-center bg-card/50 p-4 rounded-lg border border-border">
                 <Mail className="w-6 h-6 text-primary mr-4" />
-                <span className="text-foreground font-medium">JBSMOBILEDETAIL@GMAIL.COM</span>
+                <span className="text-foreground font-medium">CONTACT@DIAMONDEDGEDETAILING.COM</span>
               </div>
               <div className="flex items-center bg-card/50 p-4 rounded-lg border border-border">
                 <MessageCircle className="w-6 h-6 text-primary mr-4" />
@@ -32,7 +32,7 @@ const ServicePackages = () => {
               </div>
               <div className="flex items-center bg-card/50 p-4 rounded-lg border border-border">
                 <MapPin className="w-6 h-6 text-primary mr-4" />
-                <span className="text-foreground font-medium">TUSCALOOSA, AL</span>
+                <span className="text-foreground font-medium">GRAND FORKS, ND</span>
               </div>
             </div>
           </div>
@@ -46,27 +46,27 @@ const ServicePackages = () => {
                   <h3 className="text-xl font-bold text-foreground">DETAILING</h3>
                 </div>
                 
-                <div className="space-y-4 mb-8">
-                  {[
-                    "Complete Interior & Exterior Detailing",
-                    "Professional Paint Correction", 
-                    "Ceramic Coating Application",
-                    "Paint Touch-up Services",
-                    "Engine Bay Cleaning",
-                    "Wheel & Tire Detailing",
-                    "Glass Treatment & Protection"
-                  ].map((service, index) => (
-                    <div key={index} className="flex items-center space-x-3">
-                      <Check className="w-5 h-5 text-primary" />
-                      <span className="text-muted-foreground">{service}</span>
-                    </div>
-                  ))}
+                <div className="space-y-6 mb-8">
+                  <div>
+                    <h4 className="text-lg font-semibold text-foreground mb-2">Interior Detail - $150-$250</h4>
+                    <p className="text-sm text-muted-foreground">Seats deep cleaned, floors vacuumed, dashboard and console deep cleaned and dressed, doors cleaned and dressed, windows cleaned, trunk vacuumed, air vents and cup holders brushed and cleaned like new!</p>
+                  </div>
+                  
+                  <div>
+                    <h4 className="text-lg font-semibold text-foreground mb-2">Exterior Detail - $75-$100</h4>
+                    <p className="text-sm text-muted-foreground">We perform a rinse, prewash, followed by another rinse, then a shampoo and hand wash. This is then finished by drying the vehicle and applying ceramic spray.</p>
+                  </div>
+                  
+                  <div>
+                    <h4 className="text-lg font-semibold text-foreground mb-2">Full Detail - $200-$300</h4>
+                    <p className="text-sm text-muted-foreground">Complete interior and exterior detailing package for the ultimate vehicle transformation.</p>
+                  </div>
                 </div>
                 
                 <div className="border-t border-border pt-6">
                   <div className="flex items-center justify-between mb-4">
-                    <span className="text-lg font-semibold text-foreground">PRICE:</span>
-                    <span className="text-3xl font-bold text-primary">$299</span>
+                    <span className="text-lg font-semibold text-foreground">Starting From:</span>
+                    <span className="text-3xl font-bold text-primary">$75</span>
                   </div>
                   <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
                     Book This Package

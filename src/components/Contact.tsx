@@ -44,7 +44,7 @@ const Contact = () => {
     setTimeout(() => {
       toast({
         title: "Message Sent!",
-        description: "Thank you for contacting JB's Mobile Detailing. We'll get back to you soon!",
+        description: "Thank you for contacting Diamond Edge Detailing. We'll get back to you soon!",
       });
       setFormData({ name: "", email: "", message: "" });
       setIsSubmitting(false);
@@ -75,7 +75,7 @@ const Contact = () => {
             <div ref={leftRef} className="text-center flex flex-col justify-center h-full">
               <h3 className="text-3xl font-extrabold tracking-tight mb-6">
                 GET IN TOUCH WITH<br />
-                <span className="text-primary">JB'S MOBILE DETAILING!</span>
+                <span className="text-primary">DIAMOND EDGE DETAILING!</span>
               </h3>
               
               <h4 className="text-xl font-semibold mb-4 tracking-tight">
@@ -100,22 +100,20 @@ const Contact = () => {
                   <h4 className="text-xl font-semibold mb-4 text-foreground tracking-tight">CONTACT INFORMATION</h4>
                   <div className="space-y-3 text-muted-foreground">
                     <p>Mobile Service</p>
-                    <p>Tuscaloosa, Alabama</p>
+                    <p>Grand Forks, North Dakota</p>
                     <p>United States</p>
                     <div className="border-t border-border pt-4 mt-4">
                       <p className="font-semibold text-foreground">Business Hours:</p>
                       <p>Always Open - Appointments Only</p>
-                      <p>100% Recommend (16 Reviews)</p>
+                      <p>Professional Mobile Detailing</p>
                       <p>Online Booking Available</p>
                     </div>
                     <div className="border-t border-border pt-4 mt-4">
                       <p className="font-semibold text-foreground">Contact:</p>
-                      <p>Phone: +1 205-872-5994</p>
-                      <p>Email: Jbsmobiledetail@gmail.com</p>
-                      <p>Instagram: @jbsdetailingandceramics</p>
-                      <p>Facebook: JB's Mobile Detailing</p>
-                      <p>YouTube: jbdetails205</p>
-                      <p>TikTok: @jbsmobiledetailing</p>
+                      <p>Phone: 218-686-6992</p>
+                      <p>Email: contact@diamondedgedetailing.com</p>
+                      <p>Instagram: @diamondedgeautodetailing</p>
+                      <p>Facebook: Diamond Edge Detailing</p>
                     </div>
                   </div>
                 </CardContent>
