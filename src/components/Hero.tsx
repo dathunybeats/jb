@@ -18,7 +18,7 @@ const Hero = () => {
       title: "ELEVATE YOUR RIDE",
       titleHighlight: "WITH DIAMOND EDGE",
       buttonText: "BOOK NOW",
-      headingClass: "text-3xl sm:text-5xl md:text-6xl lg:text-6xl"
+      headingClass: "text-2xl sm:text-5xl md:text-6xl lg:text-6xl"
     },
     {
       id: 2,
@@ -27,7 +27,7 @@ const Hero = () => {
       title: "PROFESSIONAL GRADE",
       titleHighlight: "PROTECTION",
       buttonText: "BOOK NOW",
-      headingClass: "text-4xl md:text-6xl lg:text-7xl"
+      headingClass: "text-2xl sm:text-4xl md:text-6xl lg:text-7xl"
     },
     {
       id: 3,
@@ -36,16 +36,16 @@ const Hero = () => {
       title: "INTERIOR & EXTERIOR",
       titleHighlight: "DETAILING",
       buttonText: "BOOK NOW",
-      headingClass: "text-4xl md:text-6xl lg:text-7xl"
+      headingClass: "text-2xl sm:text-4xl md:text-6xl lg:text-7xl"
     },
     {
       id: 4,
       backgroundImage: heroImage4,
-      subtitle: "DIAMOND EDGE DETAILING",
-      title: "PROFESSIONAL MOBILE",
-      titleHighlight: "DETAILING SERVICE",
+      subtitle: "DIAMOND EDGE",
+      title: "PROFESSIONAL",
+      titleHighlight: "DETAILING",
       buttonText: "BOOK NOW",
-      headingClass: "text-4xl md:text-6xl lg:text-7xl"
+      headingClass: "text-2xl sm:text-4xl md:text-6xl lg:text-7xl"
     }
   ];
 
@@ -85,10 +85,10 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-6 text-center">
         <div className="max-w-5xl mx-auto -mt-20 hero-text">
-          <p className="text-white/85 font-medium mb-3 tracking-[0.2em] uppercase text-xs opacity-0 animate-fade-in" style={{ animationDelay: '0.5s', animationFillMode: 'forwards' }}>
+          <p className="text-white/85 font-medium mb-2 tracking-[0.15em] uppercase text-xs sm:text-sm opacity-0 animate-fade-in" style={{ animationDelay: '0.5s', animationFillMode: 'forwards' }}>
             {slides[currentSlide].subtitle}
           </p>
-          <h1 className={`${slides[currentSlide].headingClass} font-extrabold mb-8 leading-[1.1] tracking-tight text-white opacity-0 animate-fade-in hero-text`} style={{ animationDelay: '0.7s', animationFillMode: 'forwards' }}>
+          <h1 className={`${slides[currentSlide].headingClass} font-extrabold mb-6 leading-[1.05] tracking-tight text-white opacity-0 animate-fade-in hero-text`} style={{ animationDelay: '0.7s', animationFillMode: 'forwards' }}>
             {slides[currentSlide].title}<br />
             <span className="text-white">{slides[currentSlide].titleHighlight}</span>
           </h1>
